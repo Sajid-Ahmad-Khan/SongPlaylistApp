@@ -7,13 +7,13 @@ public class Main {
     private static ArrayList<Album> albums = new ArrayList<>();
 
     public static void main(String[] args) {
-/*
+
         Album album = new Album("Album1","AC/DC");
 
         album.addSong("TNT",4.5);
         album.addSong("Highway to hell",3.5);
         album.addSong("ThunderStruck",5.0);
-        albums.add(album);*/
+        albums.add(album);
 
         album = new Album("Album2","Eminem");
 
